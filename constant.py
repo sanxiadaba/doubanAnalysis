@@ -1,0 +1,5 @@
+# config  一些基本的设置
+# 这里设置cookies 具体参考readme里的设置  不设置这里的话很可能会被豆瓣拒绝访问
+cookies='ll="118252"; bid=8X_SmbUAp9Y; _vwo_uuid_v2=DC3A97D3010BEE39316195102DF531B24|530babb06b8447a24e4ce1b2d13812d6; douban-fav-remind=1; dbcl2="236833483:Q4S9B3aeOdU"; push_noty_num=0; push_doumail_num=0; ck=4UpM; __utma=30149280.971644773.1631299946.1638867428.1640198521.5; __utmc=30149280; __utmz=30149280.1640198521.5.5.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmv=30149280.23683; __utmb=30149280.18.10.1640198521; __utma=223695111.2140963577.1631299946.1638867428.1640198653.6; __utmb=223695111.0.10.1640198653; __utmc=223695111; __utmz=223695111.1640198653.6.6.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/; _pk_ref.100001.4cf6=%5B%22%22%2C%22%22%2C1640198653%2C%22https%3A%2F%2Fwww.douban.com%2F%22%5D; _pk_ses.100001.4cf6=*; arp_scroll_position=0; _pk_id.100001.4cf6=1c11c566a70467c0.1631299946.5.1640199238.1638867428.'
+# 爬取前几页的信息？
+n=10
