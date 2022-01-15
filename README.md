@@ -1,6 +1,12 @@
 # doubanAnalysis
 一个关于豆瓣250的爬虫和数据分析项目
 
+#### 项目展示（部分）
+
+![](D:\Code\Github\doubanAnalysis\README.assets\1.png)
+
+![](D:\Code\Github\doubanAnalysis\README.assets\2.png)
+
 ### 12-27更新
 运行app.py文件再访问1237端口可查看各电影的信息
 
